@@ -31,16 +31,26 @@ psql -U postgres – open shell Postgres.
 
 
 •	Create new database:
+
+![תמונה](https://user-images.githubusercontent.com/57719538/124265620-99386f80-db3e-11eb-8581-845048f876f9.png)
+
+
 CREATE DATABASE users;
 
 
 •	By \l commend we can see the new database call "users"
+
+![תמונה](https://user-images.githubusercontent.com/57719538/124265731-cd139500-db3e-11eb-9bc6-493db1d80296.png)
+
  
 •	now I connect to "users" database with \c users commend.
 
 •	By commend "\dt" can see all relation.
 
 •	You can see in a screenshot our table we created.
+
+![תמונה](https://user-images.githubusercontent.com/57719538/124265743-d4d33980-db3e-11eb-8967-60ff5f355fb6.png)
+
  
 
 
