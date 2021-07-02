@@ -20,6 +20,8 @@ STACK REVIEW – 45 min
 **REVIEW**
 ![תמונה](https://user-images.githubusercontent.com/57719538/124265487-6a21fe00-db3e-11eb-8e04-8c0b3528d171.png)
 
+
+
 **Comment** 
 
 psql -U postgres – open shell Postgres.
